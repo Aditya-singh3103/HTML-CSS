@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+body{
+    text-align: center;
+
+}
+
+
+
+    </style>
+</head>
+<body>
+    <h2>WELCOME TO CODEHELP BY LOVE BABBAR</h2>
+<form action="">
+
+<label for="fname"> First Name:-</label>
+<input id="fname" type="text">
+<br><br>
+<label  for="Email" style="margin-left: 15px;">E Mail:-  </label>
+<input style="margin-left: 13px;"   id="Email" type="email">
+<br><br>
+<label for="contact">Contact number:-</label>
+<input id="contact" type="text">
+<br><br>
+<label for="dob" >Date of birth:-</label>
+<input id="dob" type="date">
+<br><br>
+<label for="textarea">Enter Your Details</label>
+<br>
+<textarea  id="textarea" rows="10" cols="50"></textarea>
+<br><br>
+<label for="pass">Password:-</label>
+<input id="pass" type="password">
+<br><br><pre>
+<label>Gender</label>
+<label for="gender">Male</label>
+<input id="gender" type="radio" name="Adi">
+<label for="gender">female</label>
+<input id="gender" type="radio" name="Adi">
+</pre>
+<p>RATING</p>
+<label>1</label>
+<input type="radio" name="Adi">
+<label style="margin-left: 22px;">2</label>
+<input type="radio" name="Adi">
+<label  style="margin-left: 22px;">3</label>
+<input type="radio" name="Adi">
+<label  style="margin-left: 22px;">4</label>
+<input type="radio" name="Adi">
+<label  style="margin-left: 22px;">5</label>
+<input type="radio" name="Adi">
+
+
+
+<br><br>
+
+
+<input type="submit">
+
+
+</form>
+
+
+    
+</body>
+</html>
