@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Document</title>
+
+<style>
+#box{
+    border: 2px solid rgb(249, 227, 227);
+    height: 600px;
+    width: 650px;
+    margin-left: 300px;
+}
+
+
+
+img{
+    border: 1px solid black;
+    margin: 40px;
+    border-radius: 30px;
+}
+
+#wo{
+    margin-left: 40px;
+    
+}
+
+#footer{
+    display: flex;
+    margin-left: 40px;
+
+}
+#rs1{
+    color: blue;
+}
+
+#rs2{
+    margin-left: 23px;
+}
+
+#off{
+   
+}
+
+#aa{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+
+</style>
+
+
+</head>
+<body>
+<div id="box">
+
+
+<div id="img">
+<img src="babbar.jpg" height="330px" width="550px" 
+
+
+
+
+</div>
+<div id="wo"><h1>Web Development Master <br> Course @dot Batch</h1></div>
+
+</div>
+<hr style="width: 400px; margin-left: 4px;" >  
+
+
+
+<div id="footer">
+<h2 id="rs1">₹ 4500</h2 >   
+
+<h2 style="margin-left: 15px;"><del>6999</del></h2>
+
+<h4 style="margin: 25px; background-color: rgb(12, 98, 147); height: 20px; width: 70px; border: 2px solid; border-radius: 5px; text-align: center; margin-bottom: 20px;">42% Off</h4>
+
+
+</div>
+</body>
+
+
+
+</html>
